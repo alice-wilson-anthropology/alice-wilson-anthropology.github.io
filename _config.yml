@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alice Wilson / Senior Lecturer in Social Anthropology"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Alice Wilson"
+description              : &description "Senior Lecturer in Social Anthropology"
+url                      : https://alice-wilson-anthropology.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "alice-wilson-anthropology/alice-wilson-anthropology.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  name             : Alice Wilson"
+  avatar           : "alice_wilson_face.jpg"
+  bio              : "Social anthropologist, with research interests in the political and economic anthropology of the Middle East and North Africa. My work is concerned with transformations in the relationship between governing authorities and governed subjects, especially in contexts of revolution and liberation movements."
+  location         : "Sussex University"
+  employer         : "https://profiles.sussex.ac.uk/p381972-alice-wilson/publications"
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
