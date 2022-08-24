@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-
 I am a social anthropologist, with research interests in the political and economic anthropology of the Middle East and North Africa. My work is concerned with transformations in the relationship between governing authorities and governed subjects, especially in contexts of revolution and liberation movements.
-
-
 
 My first monograph, [*Sovereignty in exile: a Saharan liberation movement governs*](http://www.upenn.edu/pennpress/book/15606.html) (University of Pennsylvania Press, 2016), examines sovereignty through the case of the government-in-exile of Western Sahara's liberation movement. Through a study of revolutionary social change, legal reform, democratization, and economic entwinements of aid and informal trade, Sovereignty in exile explores insights into state power brought to light by the changing significance of tribes amongst Western Sahara's refugees.
 
@@ -22,8 +18,9 @@ Sovereignty in exile won [Honorable Mention](http://mes.americananthro.org/mes-b
 My second book, *Afterlives of Revolution: Everyday Counterhistories in southern Oman* (forthcoming Stanford 2023) focuses on legacies of the former liberation movement in Dhufar, southern Oman. The book examines how kinship practices, everyday socialising and the unofficial commemoration of some former revolutionaries generate ongoing social legacies and afterlives of Dhufar's revolution. I held a Cambridge Humanities Research Grant and Addison Wheeler Research Fellowship at Durham University to conduct fieldwork for this project. Thanks to a Leverhulme Research Fellowship 2019-2020 and a Derek Brewer Visiting Fellowship (2022) at Emmanuel College, Cambridge, I am currently completing the book. A presentation on this research at the University of Cambridge's Centre for Islamic Studies is available here.
 
 
-# Key themes in my research
 
+
+# Key themes in my research
 ## Revolution
 Sovereignty in exile examines how Sahrawi refugees both draw on and transform longstanding social relations as they build revolutionary state power. I argue that while revolutions pursue new social contracts between governing authorities and governed constituencies, revolution is also a moral contract the terms of which can prove more enduring in the face of social, political, and economic changes over long decades of revolution. I have also analysed the comparative anthropology of revolution, and the politics of the visibility of revolutionary movements during the Arab Spring. Currently I am working on the long term legacies of revolutionary social change in Dhufar, and the implications of that legacy for the fact that Dhufar hosted the longest lasting of the Arab Spring protest movements in Oman.
 
@@ -44,7 +41,6 @@ By taking up cases where taxation is not straightforward - such as liberation mo
 
 ## Anomalous geopolitical territories
 Through comparison between Western Sahara and Tibet, and other cases, the special issue for which I was a guest co-editor examined the Introduction. production of legitimacy in anomalous governing authorities such as unrecognised states, annexed territories and refugee populations.
-
 
 # Teaching
  My teaching covers undergraduate and graduate students across fields including: political anthropology, economic anthropology, social theory and the anthropology of the Middle East. I am a Fellow of the Higher Education Academy.
