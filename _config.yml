@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alice Wilson / Senior Lecturer in Social Anthropology"
+title                    : "Alice Wilson"
 title_separator          : "-"
 name                     : &name "Alice Wilson"
 description              : &description "Senior Lecturer in Social Anthropology"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : Alice Wilson"
+  name             : "Alice Wilson"
   avatar           : "alice_wilson_face.jpg"
   bio              : "Social anthropologist, with research interests in the political and economic anthropology of the Middle East and North Africa. My work is concerned with transformations in the relationship between governing authorities and governed subjects, especially in contexts of revolution and liberation movements."
-  location         : "Sussex University"
-  employer         : "https://profiles.sussex.ac.uk/p381972-alice-wilson/publications"
+  location         : 
+  employer         : "Sussex University"
   pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
