@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Reviews"
+permalink: /reviews/
+author_profile: true
+---
+
+
+{% for post in site.reviews reversed %}
+  {% include archive-single-review.html %}
+{% endfor %}

@@ -9,35 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Degress
-======
+I joined the University of Sussex as a Lecturer in Social Anthropology in September 2016, and became a Senior Lecturer in 2018. Previously I enjoyed post-docs as an Addison Wheeler Research Fellow at Durham University (2014-2016) and as a Junior Research Fellow at Homerton College, University of Cambridge (2011-2016). I gained my PhD in Social Anthropology from the University of Cambridge (2011).
+
+
+## Degrees
 * PhD, University of Cambridge, Cambridge, United Kingdom, 1 Oct 2011
 
   
-Working languages
-======
+## Working languages
 * Fluent: English, French, Spanish
 * Excellent: Arabic and Hassaniya dialect
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+## Articles
+  <ul>{% for post in site.articles %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+## Books
+  <ul>{% for post in site.books %}
+    {% include archive-single-book-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+ 
+## Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
