@@ -2,6 +2,7 @@
 layout: archive
 title: "Articles"
 permalink: /articles/
+excerpt: "Peer reviewed articles"
 author_profile: true
 ---
 

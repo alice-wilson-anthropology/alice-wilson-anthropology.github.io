@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/articles/2016-01-01-oman-elections</loc>
+<lastmod>2016-06-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2016-04-01-north-africa-invisible-refugees</loc>
+<lastmod>2016-06-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2016-11-16-gifts-that-recalibrate-relationships</loc>
+<lastmod>2016-06-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2017-01-17-ambivalences-of-mobility</loc>
+<lastmod>2017-01-17T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/articles/2018-12-27-ambiguities-of-radicalism-after-insurgents-become-rulers</loc>
 <lastmod>2018-12-27T00:00:00-07:00</lastmod>
 </url>
@@ -17,11 +33,11 @@
 <lastmod>2020-03-23T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/books/categ-1-book-1-Sovereignty%20in%20Exile</loc>
+<loc>http://localhost:4000/books/2016-book-sovereignty-in-exile</loc>
 <lastmod>2016-10-10T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/books/categ-1-book-1-Sovereignty%20in%20Exile</loc>
+<loc>http://localhost:4000/books/2023-book-afterlives-of-revolution</loc>
 <lastmod>2023-01-01T00:00:00-07:00</lastmod>
 </url>
 <url>
@@ -37,8 +53,8 @@
 <lastmod>2199-01-01T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/reviews/2012/08/review-1/</loc>
-<lastmod>2012-08-14T00:00:00-07:00</lastmod>
+<loc>http://localhost:4000/reviews/2012-07-29-western-sahara-refugee-nation</loc>
+<lastmod>2012-07-29T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/2014-spring-teaching-1</loc>
@@ -50,9 +66,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/archive-layout-with-content/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/articles/</loc>

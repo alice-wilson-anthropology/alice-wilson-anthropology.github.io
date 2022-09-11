@@ -1,10 +1,14 @@
 ---
 title: "Sovereignty in Exile: a Saharan liberation"
 collection: books
-permalink: /books/categ-1-book-1-Sovereignty in Exile
+permalink: /books/2016-book-sovereignty-in-exile
 excerpt: 'This book is explores sovereignty and state power through the case of a liberation movement that set out to make itself into a state.'
 date: 2016-10-10
 venue: 'University of Pennsylvania Press'
+categories: 
+    - Revolution
+    - Refugees
+    - Taxation
 paperurl: 'http://www.upenn.edu/pennpress/book/15606.html'
 citation: 'Wilson, A. (2016). &quot;Sovereignty in Exile: a Saharan liberation.&quot; <i>University of Pennsylvania Press</i>. 1(1).'
 ---
@@ -13,5 +17,3 @@ citation: 'Wilson, A. (2016). &quot;Sovereignty in Exile: a Saharan liberation.&
 Drawing on unprecedented long-term research gained by living with Sahrawi refugee families, Alice Wilson examines how tribal social relations are undermined, recycled, and have reemerged as the refugee community negotiates governance, resolves disputes, manages social inequalities, and improvises alternatives to taxation. Wilson trains an ethnographic lens on the creation of administrative categories, legal reforms, aid distribution, marriage practices, local markets, and contested elections within the camps. Tracing social, political, and economic changes among Sahrawi refugees, Sovereignty in Exile reveals the dynamics of a postcolonial liberation movement that has endured for decades in the deserts of North Africa while trying to bring about the revolutionary transformation of a society which identifies with a Bedouin past.
 
 [Table of content](http://www.upenn.edu/pennpress/book/toc/15606.html)
-
-Recommended citation: Wilson, A. (2016). "Sovereignty in Exile: a Saharan liberation." <i>University of Pennsylvania Press</i>. 1(1).
