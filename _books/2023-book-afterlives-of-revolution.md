@@ -6,8 +6,10 @@ excerpt: 'This book is explores sovereignty and state power through the case of 
 date: 2023-01-01
 venue: 'Stanford University Press'
 categories: 
-    - Defeat
-    - Counter-insurgency
+  - Defeat
+  - Counter-insurgency
+tags:
+  - kinship
 paperurl:
 citation: 'Wilson, A. (2023). &quot;Afterlives of revolution: Everyday Counterhistories in southern Oman.&quot; <i>Stanford University Press</i>. 1(1).'
 ---

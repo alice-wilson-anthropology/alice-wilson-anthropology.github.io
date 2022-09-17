@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/articles/2015-03-28-refracting-custom</loc>
+<lastmod>2015-03-28T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2015-11-05-constructing-legitimacy</loc>
+<lastmod>2015-11-05T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2015-11-05-understanding-legitimacy</loc>
+<lastmod>2015-11-05T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/articles/2016-01-01-oman-elections</loc>
 <lastmod>2016-06-01T00:00:00-07:00</lastmod>
 </url>

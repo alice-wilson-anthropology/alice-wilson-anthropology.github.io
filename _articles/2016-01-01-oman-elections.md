@@ -10,4 +10,4 @@ citation: 'Wilson, A. (2016). &quot;Oman’s Consultative Council Elections&quot
 ---
 This short article examines how an electoral league in Salalah, Oman, disrupted power relations at the local and national level during elections for Oman’s Consultative Council between 2003 and 2015.
 
-[Access to author’s accepted manuscript.](http://sro.sussex.ac.uk/id/eprint/75607/1/Wilson%20radicalism%20and%20revolutionary%20state%20power%202018%20accepted%20version.pdf)
+[Access to author’s accepted manuscript.](https://sro.sussex.ac.uk/id/eprint/75607/1/Wilson%20radicalism%20and%20revolutionary%20state%20power%202018%20accepted%20version.pdf)

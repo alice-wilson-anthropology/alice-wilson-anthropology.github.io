@@ -10,4 +10,4 @@ citation: 'Wilson, A. (2016). &quot;North Africa’s invisible refugees.&quot; <
 ---
 This short article examines how Sahrawi refugees in Algeria seek visibility for their struggle for self-determination, both in exile and in post-exile migratory movements.
 
-[Access to author’s accepted manuscript.](http://sro.sussex.ac.uk/id/eprint/75607/1/Wilson%20radicalism%20and%20revolutionary%20state%20power%202018%20accepted%20version.pdf)
+[Access to author’s accepted manuscript.](https://sro.sussex.ac.uk/id/eprint/75607/1/Wilson%20radicalism%20and%20revolutionary%20state%20power%202018%20accepted%20version.pdf)
