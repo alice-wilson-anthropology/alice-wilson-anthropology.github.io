@@ -1,13 +1,15 @@
 ---
-title: 'Constructing legitimacy without legality in long term exile comparing Western Sahara and Tibet'
+title: "Constructing legitimacy without legality in long term exile comparing Western Sahara and Tibet"
 collection: articles
 permalink: /articles/2015-11-05-constructing-legitimacy
-excerpt: 'While scholars agree that political legitimacy, or the legitimacy to rule, is sought by governing authorities, the concept itself is often considered to be problematically vague. This article explores how the very ambiguity of the concept of legitimacy may make it ‘good to think with’.'
+excerpt: "While scholars agree that political legitimacy, or the legitimacy to rule, is sought by governing authorities, the concept itself is often considered to be problematically vague. This article explores how the very ambiguity of the concept of legitimacy may make it ‘good to think with’."
 date: 2015-11-05
-venue: 'Geoforum'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0016718514002425'
-citation: ' Wilson, A. and McConnell, F.(2015). &quot;Constructing legitimacy without legality in long term exile comparing Western Sahara and Tibet.&quot; <i>Geoforum. 66, pp. 203-214.</i>.'
+venue: "Geoforum"
+paperurl: "https://www.sciencedirect.com/science/article/pii/S0016718514002425"
+citation: " Wilson, A. and McConnell, F.(2015). &quot;Constructing legitimacy without legality in long term exile comparing Western Sahara and Tibet.&quot; <i>Geoforum. 66, pp. 203-214.</i>."
 categories:
+  - Peer-reviewed Articles
+tags:
   - Legitimacy
   - Governance
 ---

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/articles/2010-01-01-democratising-elections-without-parties</loc>
+<lastmod>2010-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2011-12-30-pratiques-de-l-appropriation-fonciere-en-contexte-musulman.</loc>
+<lastmod>2015-03-28T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2012-12-30-households-and-the-production-of-public-and-private-domains</loc>
+<lastmod>2015-03-28T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2013-03-01-on-the-margins-of-the-arab-spring</loc>
+<lastmod>2015-03-28T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/articles/2014-01-01-ambiguities-of-space-and-control</loc>
 <lastmod>2015-03-28T00:00:00+01:00</lastmod>
 </url>

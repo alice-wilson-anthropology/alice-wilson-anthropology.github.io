@@ -1,35 +1,77 @@
 ---
 layout: archive
 permalink: /categories/
-title: "Books and Articles by Category"
+title: "Books and Articles by category"
 author_profile: true
 ---
 
 {% include base_path %}
 
 
-<div id="book_categories"></div>
 {% include group-by-array collection=site.books field="categories" %}
+{% assign book_categories = group_names %}
+{% assign book_group_items = group_items %}
 
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2> <span class="archive__subtitle">Book Category : </span> <span id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </span></h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
+
+
+
+{% for category in book_categories %}
+  
+  {% assign posts = book_group_items[forloop.index0] %}
+
+  
+  <h2 id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </h2>
+  {% if posts.size >= 0 %}
+  
+    {% assign cached_post_collection = '' %}
+    {% for post in posts %}
+
+      {% if post %}
+        
+        {% if post.collection != cached_post_collection %}
+        {% assign cached_post_collection = post.collection %}
+          <h2 class="archive__subtitle">Books</h2>
+        {% endif %} 
+
+        {% include archive-single.html %}
+      
+      {% endif %}
+
+    {% endfor %}
+  {% endif %} 
+
 {% endfor %}
 
 
 
-<div id="articles_categories" style="margin-top: 40px; border-bottom: 2px solid gray;"></div>
-{% include group-by-array collection=site.articles field="categories" %}
 
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2> <span class="archive__subtitle">Article Category : </span> <span id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </span></h2>
-  <!-- <h2 id="{{ category | slugify }}" class="archive__subtitle">Book Category : {{ category }}</h2> -->
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% include group-by-array collection=site.articles field="categories" %}
+{% assign article_categories = group_names %}
+{% assign article_group_items = group_items %}
+
+    
+{% for category in article_categories %}
+  {% assign posts = article_group_items[forloop.index0] %}
+
+  <h2 id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </h2>
+  
+  {% if posts.size >= 0 %}
+  
+    {% for post in posts %}
+
+      {% if post %}
+
+        {% if post.collection != cached_post_collection %}
+        {% assign cached_post_collection = post.collection %}
+            <h2 class="archive__subtitle">Articles</h2>
+        {% endif %} 
+
+        {% include archive-single.html %}
+      
+      {% endif %}
+
+    {% endfor %}
+  {% endif %} 
+
 {% endfor %}
 

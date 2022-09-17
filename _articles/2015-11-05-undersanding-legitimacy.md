@@ -1,13 +1,15 @@
 ---
-title: 'Understanding legitimacy: Perspectives from anomalous geopolitical spaces'
+title: "Understanding legitimacy: Perspectives from anomalous geopolitical spaces"
 collection: articles
 permalink: /articles/2015-11-05-understanding-legitimacy
-excerpt: 'This special issue explores the production of political legitimacy, approached from the angle of the legitimacy claims of the governing authorities of anomalous geopolitical spaces.'
+excerpt: "This special issue explores the production of political legitimacy, approached from the angle of the legitimacy claims of the governing authorities of anomalous geopolitical spaces."
 date: 2015-11-05
-venue: 'Geoforum'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S001671851500233X'
-citation: ' Wilson, A. and McConnell, F.(2015). &quot;Understanding legitimacy: Perspectives from anomalous geopolitical spaces.&quot; <i>Geoforum. 66, pp. 177-183.</i>.'
+venue: "Geoforum"
+paperurl: "https://www.sciencedirect.com/science/article/pii/S001671851500233X"
+citation: " Wilson, A. and McConnell, F.(2015). &quot;Understanding legitimacy: Perspectives from anomalous geopolitical spaces.&quot; <i>Geoforum. 66, pp. 177-183.</i>."
 categories:
+  - Peer-reviewed Articles
+tags:
   - Legitimacy
   - Governance
 ---

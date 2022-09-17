@@ -1,13 +1,15 @@
 ---
-title: 'Invisible veterans: defeated militants and enduring revolutionary social values in Dhufar, Oman'
+title: "Invisible veterans: defeated militants and enduring revolutionary social values in Dhufar, Oman"
 collection: articles
 permalink: /articles/2019-06-01-invisible-veterans
-excerpt: 'Those who have participated in organized political violence often develop distinctive identities as veteran combatants. But what possibilities exist to produce a veteran identity for “invisible” veterans denied public recognition or mention, such as politically repressed defeated insurgents? ..'
+excerpt: "Those who have participated in organized political violence often develop distinctive identities as veteran combatants. But what possibilities exist to produce a veteran identity for “invisible” veterans denied public recognition or mention, such as politically repressed defeated insurgents? .."
 date: 2019-06-01
-venue: 'Conflict and Society'
-paperurl: 'https://www.berghahnjournals.com/view/journals/conflict-and-society/5/1/arcs050109.xml'
-citation: 'Wilson, A. (2019). &quot;Invisible veterans: defeated militants and enduring revolutionary social values in Dhufar, Oman.&quot; <i>Conflict and Society 5(1), pp. 132-149.</i>.'
+venue: "Conflict and Society"
+paperurl: "https://www.berghahnjournals.com/view/journals/conflict-and-society/5/1/arcs050109.xml"
+citation: "Wilson, A. (2019). &quot;Invisible veterans: defeated militants and enduring revolutionary social values in Dhufar, Oman.&quot; <i>Conflict and Society 5(1), pp. 132-149.</i>."
 categories:
+  - Peer-reviewed Articles
+tags:
   - Veterans
   - Defeat
 

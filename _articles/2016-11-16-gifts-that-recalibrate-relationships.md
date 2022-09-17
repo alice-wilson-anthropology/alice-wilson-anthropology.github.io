@@ -1,13 +1,15 @@
 ---
-title: 'Gifts that recalibrate relationships: marriage prestations in an Arab liberation movement'
+title: "Gifts that recalibrate relationships: marriage prestations in an Arab liberation movement"
 collection: articles
 permalink: /articles/2016-11-16-gifts-that-recalibrate-relationships
-excerpt: 'Enduring scholarly interest in the social relations of gift exchange has, following Mauss, emphasised how gifts make relationships. Where gifts break relationships, their ethnographic distinctiveness has reinforced the wider notion that gifts are good at making relations. This article examines gifts which, without the empirical distinctiveness of gifts that break relationships, both make and break relationships.'
+excerpt: "Enduring scholarly interest in the social relations of gift exchange has, following Mauss, emphasised how gifts make relationships. Where gifts break relationships, their ethnographic distinctiveness has reinforced the wider notion that gifts are good at making relations. This article examines gifts which, without the empirical distinctiveness of gifts that break relationships, both make and break relationships."
 date: 2016-06-01
-venue: 'Conflict and Society'
-paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/00141844.2016.1253598?journalCode=retn20'
-citation: 'Wilson, A. (2016). &quot;Gifts that recalibrate relationships: marriage prestations in an Arab liberation movement.&quot; <i>Ethnos 83(1), pp. 296-315.</i>.'
+venue: "Ethnos"
+paperurl: "https://www.tandfonline.com/doi/abs/10.1080/00141844.2016.1253598?journalCode=retn20"
+citation: "Wilson, A. (2016). &quot;Gifts that recalibrate relationships: marriage prestations in an Arab liberation movement.&quot; <i>Ethnos 83(1), pp. 296-315.</i>."
 categories:
+  - Peer-reviewed Articles
+tags:
   - Gifts
   - Mariage
 ---

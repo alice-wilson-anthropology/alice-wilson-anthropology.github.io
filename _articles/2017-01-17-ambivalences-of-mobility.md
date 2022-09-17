@@ -1,13 +1,15 @@
 ---
-title: 'Ambivalences of mobility: Rival state authorities and mobile strategies in a Saharan conflict'
+title: "Ambivalences of mobility: Rival state authorities and mobile strategies in a Saharan conflict"
 collection: articles
 permalink: /articles/2017-01-17-ambivalences-of-mobility
-excerpt: 'How do ongoing histories of physical mobility in economic and political life affect rival state authorities’ claims over a disputed territory? In the conflict over Western Sahara, wide-ranging strategies of mobility challenge familiar tropes of migration scholarship, in which states constrain people’s movements while subjects seek to escape such control.'
+excerpt: "How do ongoing histories of physical mobility in economic and political life affect rival state authorities’ claims over a disputed territory? In the conflict over Western Sahara, wide-ranging strategies of mobility challenge familiar tropes of migration scholarship, in which states constrain people’s movements while subjects seek to escape such control."
 date: 2017-01-17
-venue: 'American Ethnologist'
-paperurl: 'https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/amet.12427'
-citation: 'Wilson, A. (2019). &quot;Ambivalences of mobility: Rival state authorities and mobile strategies in a Saharan conflict.&quot; <i>American Ethnologist 44(1), pp. 77-90.</i>.'
+venue: "American Ethnologist"
+paperurl: "https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/amet.12427"
+citation: "Wilson, A. (2019). &quot;Ambivalences of mobility: Rival state authorities and mobile strategies in a Saharan conflict.&quot; <i>American Ethnologist 44(1), pp. 77-90.</i>."
 categories:
+  - Peer-reviewed Articles
+tags:
   - Refugees
   - Migration
   - Territory

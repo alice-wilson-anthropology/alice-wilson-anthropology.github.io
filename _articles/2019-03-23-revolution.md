@@ -1,13 +1,15 @@
 ---
-title: 'Revolution'
+title: "Revolution"
 collection: articles
 permalink: /articles/2019-10-16-revolution
-excerpt: 'Although early anthropology rarely addressed such movements or programmes for change directly, in recent years longstanding anthropological insights have helped shape an emerging field of the anthropology of revolution..'
+excerpt: "Although early anthropology rarely addressed such movements or programmes for change directly, in recent years longstanding anthropological insights have helped shape an emerging field of the anthropology of revolution.."
 date: 2019-10-16
-venue: 'The Cambridge Encyclopedia of Anthropology'
-paperurl: 'https://www.anthroencyclopedia.com/entry/revolution'
-citation: 'Wilson, A. (2019). &quot;Revolution.&quot; <i>The Cambridge Encyclopedia of Anthropology</i>.'
+venue: "The Cambridge Encyclopedia of Anthropology"
+paperurl: "https://www.anthroencyclopedia.com/entry/revolution"
+citation: "Wilson, A. (2019). &quot;Revolution.&quot; <i>The Cambridge Encyclopedia of Anthropology</i>."
 categories:
+  - Peer-reviewed Articles
+tags:
   - Revolution
 ---
 

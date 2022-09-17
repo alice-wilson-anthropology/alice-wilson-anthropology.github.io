@@ -1,13 +1,15 @@
 ---
-title: 'Ambiguities of Radicalism After Insurgents Become Rulers: Conflicting Pressures on Revolutionary State Power in Western Sahara''s Liberation Movement'
+title: "Ambiguities of Radicalism After Insurgents Become Rulers: Conflicting Pressures on Revolutionary State Power in Western Sahara's Liberation Movement"
 collection: articles
 permalink: /articles/2018-12-27-ambiguities-of-radicalism-after-insurgents-become-rulers
-excerpt: 'Armed insurgents seeking to seize the state often aim to transform the nature of state power. Yet for insurgents who become ruling authorities, how do radical visions of state power influence governance after the urgency of war?'
+excerpt: "Armed insurgents seeking to seize the state often aim to transform the nature of state power. Yet for insurgents who become ruling authorities, how do radical visions of state power influence governance after the urgency of war?"
 date: 2018-12-27
-venue: 'Government and Opposition'
-paperurl: 'https://www.cambridge.org/core/journals/government-and-opposition/article/abs/ambiguities-of-radicalism-after-insurgents-become-rulers-conflicting-pressures-on-revolutionary-state-power-in-western-saharas-liberation-movement/7D762A38BEF5BC08C7E89A25186102F1'
-citation: 'Wilson, A. (2020). &quot;Ambiguities of Radicalism After Insurgents Become Rulers: Conflicting Pressures on Revolutionary State Power in Western Sahara''s Liberation Movement &quot; <i>Government and Opposition 55(4), pp. 617-633</i>.'
+venue: "Government and Opposition"
+paperurl: "https://www.cambridge.org/core/journals/government-and-opposition/article/abs/ambiguities-of-radicalism-after-insurgents-become-rulers-conflicting-pressures-on-revolutionary-state-power-in-western-saharas-liberation-movement/7D762A38BEF5BC08C7E89A25186102F1"
+citation: "Wilson, A. (2020). &quot;Ambiguities of Radicalism After Insurgents Become Rulers: Conflicting Pressures on Revolutionary State Power in Western Sahara's Liberation Movement &quot; <i>Government and Opposition 55(4), pp. 617-633</i>."
 categories:
+  - Peer-reviewed Articles
+tags:
   - Revolution
   - Refugees
 ---

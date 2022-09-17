@@ -1,13 +1,15 @@
 ---
-title: 'Ambiguities of space and control: when refugee camp and nomadic encampment meet.'
+title: "Ambiguities of space and control: when refugee camp and nomadic encampment meet"
 collection: articles
 permalink: /articles/2014-01-01-ambiguities-of-space-and-control
-excerpt: 'This article explores sedentarisation as a process of inherent tension between the rupture and preservation of values associated with mobility.'
+excerpt: "This article explores sedentarisation as a process of inherent tension between the rupture and preservation of values associated with mobility."
 date: 2015-03-28
-venue: 'Geoforum'
-paperurl: 'http://www.ingentaconnect.com/content/whp/nomp/2014/00000018/00000001/art00004'
-citation: ' Wilson, A. (2014). &quot;Ambiguities of space and control: when refugee camp and nomadic encampment meet..&quot; <iNomadic Peoples 18 (1), pp. 38-60.</i>.'
+venue: "Nomadic Peoples"
+paperurl: "http://www.ingentaconnect.com/content/whp/nomp/2014/00000018/00000001/art00004"
+citation: " Wilson, A. (2014). &quot;Ambiguities of space and control: when refugee camp and nomadic encampment meet&quot; <i>Nomadic Peoples 18 (1), pp. 38-60.</i>."
 categories:
+  - Peer-reviewed Articles
+tags:
   - Migration
   - Nomadism
   - Sovereignty
