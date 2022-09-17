@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Bio"
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
+  - /cv
 ---
 
 {% include base_path %}
@@ -23,17 +24,17 @@ I joined the University of Sussex as a Lecturer in Social Anthropology in Septem
 
 ## Articles
   <ul>{% for post in site.articles %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-bio.html %}
   {% endfor %}</ul>
   
 ## Books
   <ul>{% for post in site.books %}
-    {% include archive-single-book-cv.html %}
+    {% include archive-single-book-bio.html %}
   {% endfor %}</ul>
  
 ## Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-bio.html %}
   {% endfor %}</ul>
   
