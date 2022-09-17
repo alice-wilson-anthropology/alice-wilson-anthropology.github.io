@@ -1,17 +1,35 @@
 ---
 layout: archive
 permalink: /categories/
-title: "Posts by Category"
+title: "Books and Articles by Category"
 author_profile: true
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
+
+
+<div id="book_categories"></div>
+{% include group-by-array collection=site.books field="categories" %}
 
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  <h2> <span class="archive__subtitle">Book Category : </span> <span id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </span></h2>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+
+
+
+<div id="articles_categories" style="margin-top: 40px; border-bottom: 2px solid gray;"></div>
+{% include group-by-array collection=site.articles field="categories" %}
+
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2> <span class="archive__subtitle">Article Category : </span> <span id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </span></h2>
+  <!-- <h2 id="{{ category | slugify }}" class="archive__subtitle">Book Category : {{ category }}</h2> -->
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
+

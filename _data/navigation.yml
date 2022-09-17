@@ -17,6 +17,9 @@ main:
 
   - title: "Bio"
     url: /bio/
+    
+  - title: "Publication themes"
+    url: /categories/
 
   # - title: "Guide"
   #   url: /markdown/
