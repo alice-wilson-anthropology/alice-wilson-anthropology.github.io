@@ -10,7 +10,7 @@ venue: 'University of Pennsylvania Press'
 paperurl: 'https://www.pennpress.org/9780812248494/sovereignty-in-exile/'
 citation: 'Wilson, A. (2016). &quot;Sovereignty in Exile: a Saharan liberation.&quot; <i>University of Pennsylvania Press</i>. 1(1).'
 categories:
-  - Published book
+  - Books
 tags:
   - Revolution,Refugees
   - Sovereignty

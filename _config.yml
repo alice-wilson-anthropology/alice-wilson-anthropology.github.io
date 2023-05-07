@@ -11,7 +11,7 @@ title                    : "Alice Wilson"
 title_separator          : "-"
 name                     : &name "Alice Wilson"
 description              : &description "Senior Lecturer in Social Anthropology"
-url                      : https://alice-wilson-anthropology.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alice-wilson-anthropology/alice-wilson-anthropology.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alice Wilson"
   avatar           : "alice_wilson_face_small.jpg"
-  bio              : "Social anthropologist, with research interests in the political and economic anthropology of the Middle East and North Africa."
+  bio              : "Social anthropologist, with research interests in the political and economic anthropology of the Southwest Asia and North Africa."
   location         : 
   employer         : "Sussex University"
   pubmed           :
@@ -181,6 +181,12 @@ collections:
   articles:
     output: true
     permalink: /:collection/:path/
+  short_articles:
+    output: true
+    permalink: /:collection/:path/
+  book-chapters:
+    output: true
+    permalink: /:collection/:path/
   books:
     output: true
     permalink: /:collection/:path/
@@ -191,10 +197,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _short_articles
   - scope:
       path: ""
-      type: posts
+      type: short_articles
     values:
       layout: single
       author_profile: true
@@ -227,6 +233,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _book-chapters
+  - scope:
+      path: ""
+      type: book-chapters
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _books
   - scope:
       path: ""

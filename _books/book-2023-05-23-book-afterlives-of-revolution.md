@@ -3,14 +3,14 @@ title: "Afterlives of revolution: Everyday Counterhistories in southern Oman"
 date: 2023-03-01
 author: Wilson
 collection: books
-permalink: /books/2023-03-book-afterlives-of-revolution
-excerpt: This book is explores sovereignty and state power through the case of a liberation movement that set out to make itself into a state.
+permalink: /books/2023-05-23-book-afterlives-of-revolution
+excerpt: What are the legacies of a defeated revolution? Prevailing narratives depict defeated revolutions as examples of successful counter-insurgency campaigns.
 
 venue: 'Stanford University Press'
-paperurl:
+paperurl: https://sup.org/books/title/?id=33023
 citation: 'Wilson, A. (2023). &quot;Afterlives of revolution: Everyday Counterhistories in southern Oman.&quot; <i>Stanford University Press</i>. 1(1).'
 categories:
-  - Book to be published
+  - Books
 tags:
   - Defeat
   - Counter-insurgency

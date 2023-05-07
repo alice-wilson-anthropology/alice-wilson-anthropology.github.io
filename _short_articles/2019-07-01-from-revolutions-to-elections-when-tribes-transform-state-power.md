@@ -4,7 +4,7 @@ date: 2019-07-17
 permalink: /posts/2019-07-from-revolutions-to-elections-when-tribes-transform-state-power/
 paperurl: 'https://blogs.lse.ac.uk/mec/2018/07/17/from-revolutions-to-elections-when-tribes-transform-state-power/'
 categories:
-  - Online articles
+  - Short articles
 tags:
   - International Law
 ---

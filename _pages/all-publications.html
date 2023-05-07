@@ -1,0 +1,157 @@
+---
+layout: archive
+permalink: /all-publications/
+title: "All publications"
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% comment %} 
+=============== GATHER BOOK LIST ==================================== 
+{% endcomment %}
+
+{% include group-by-array collection=site.books field="categories" %}
+{% assign book_categories = group_names %}
+{% assign book_group_items = group_items %}
+
+{% for category in book_categories %}
+  
+  {% assign posts = book_group_items[forloop.index0] %}
+
+  
+  <h2 id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </h2>
+  {% if posts.size >= 0 %}
+  
+    {% assign cached_post_collection = '' %}
+    {% for post in posts %}
+
+      {% if post %}
+        
+        {% if post.collection != cached_post_collection %}
+        {% assign cached_post_collection = post.collection %}
+          <!-- <h2 class="archive__subtitle">Books</h2> -->
+        {% endif %} 
+
+        {% include archive-single.html %}
+      
+      {% endif %}
+
+    {% endfor %}
+  {% endif %} 
+
+{% endfor %}
+
+
+
+
+
+{% comment %} 
+=============== GATHER ARTICLE LIST ==================================== 
+{% endcomment %}
+
+{% include group-by-array collection=site.articles field="categories" %}
+{% assign article_categories = group_names %}
+{% assign article_group_items = group_items %}
+
+    
+{% for category in article_categories %}
+  {% assign posts = article_group_items[forloop.index0] %}
+
+  <h2 id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </h2>
+  
+  {% if posts.size >= 0 %}
+  
+    {% for post in posts %}
+
+      {% if post %}
+
+        {% if post.collection != cached_post_collection %}
+        {% assign cached_post_collection = post.collection %}
+            <h2 class="archive__subtitle">Articles</h2>
+        {% endif %} 
+
+        {% include archive-single.html %}
+      
+      {% endif %}
+
+    {% endfor %}
+  {% endif %} 
+
+{% endfor %}
+
+
+{% comment %} 
+=============== GATHER CHAPTER LIST ==================================== 
+{% endcomment %}
+
+{% include group-by-array collection=site.book-chapters field="categories" %}
+{% assign book_chapters_categories = group_names %}
+{% assign book_chapters_group_items = group_items %}
+
+{% for category in book_chapters_categories %}
+  
+  {% assign posts = book_chapters_group_items[forloop.index0] %}
+
+  
+  <h2 id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </h2>
+  {% if posts.size >= 0 %}
+  
+    {% assign cached_post_collection = '' %}
+    {% for post in posts %}
+
+      {% if post %}
+        
+        {% if post.collection != cached_post_collection %}
+        {% assign cached_post_collection = post.collection %}
+          <!-- <h2 class="archive__subtitle">Book Chapters</h2> -->
+        {% endif %} 
+
+        {% include archive-single.html %}
+      
+      {% endif %}
+
+    {% endfor %}
+  {% endif %} 
+
+{% endfor %}
+
+
+
+{% comment %} 
+=============== GATHER SHORT ARTICLES LIST ==================================== 
+{% endcomment %}
+
+{% include group-by-array collection=site.short_articles field="categories" %}
+{% assign short_articles_categories = group_names %}
+{% assign short_articles_group_items = group_items %}
+
+{% for category in short_articles_categories %}
+  
+  {% assign posts = short_articles_group_items[forloop.index0] %}
+
+  
+  <h2 id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </h2>
+  {% if posts.size >= 0 %}
+  
+    {% assign cached_post_collection = '' %}
+    {% for post in posts %}
+
+      {% if post %}
+        
+        {% if post.collection != cached_post_collection %}
+        {% assign cached_post_collection = post.collection %}
+          <!-- <h2 class="archive__subtitle">Short Articles</h2> -->
+        {% endif %} 
+
+        {% include archive-single.html %}
+      
+      {% endif %}
+
+    {% endfor %}
+  {% endif %} 
+
+{% endfor %}
+
+

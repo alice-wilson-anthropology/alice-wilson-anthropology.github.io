@@ -3,23 +3,29 @@ main:
   - title: "Books"
     url: /books/
 
-  - title: "Articles"
-    url: /articles/
+  - title: "Journal Articles"
+    url: /peer-reviewed-journal-articles/
+
+  - title: "Chapters"
+    url: /book-chapters/
+
+  - title: "Short Articles"
+    url: /short_articles/
 
   - title: "Reviews"
     url: /reviews/
 
+  - title: "All Publications"
+    url: /all-publications/
+
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Other Posts"
-    url: /year-archive/
-
   - title: "Bio"
     url: /bio/
-    
-  - title: "Publications by category"
-    url: /categories/
+
+  - title: "Other Posts (blog)"
+    url: /year-archive/
 
   # - title: "Guide"
   #   url: /markdown/

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Articles"
-permalink: /articles/
+permalink: /peer-reviewed-journal-articles/
 excerpt: "Peer reviewed articles"
 author_profile: true
 ---

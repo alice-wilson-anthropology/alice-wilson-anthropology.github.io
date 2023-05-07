@@ -4,7 +4,7 @@ date: 2019-07-01
 permalink: /posts/2019-07-double-disappearance-after-omans-dhufar-war-stateless-displaced-disappeared/
 paperurl: 'https://allegralaboratory.net/double-disappearance-after-omans-dhufar-war-stateless-displaced-disappeared/'
 categories:
-  - Online articles
+  - Short articles
 tags:
   - International Law
 ---
