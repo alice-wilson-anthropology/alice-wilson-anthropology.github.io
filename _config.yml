@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "Alice Wilson"
 description              : &description "Senior Lecturer in Social Anthropology"
 url                      : https://alice-wilson-anthropology.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alice-wilson-anthropology/alice-wilson-anthropology.github.io"
 github                   : [metadata]
