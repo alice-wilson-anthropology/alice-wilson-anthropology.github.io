@@ -136,7 +136,7 @@ author_profile: true
   {% if posts.size >= 0 %}
   
     {% assign cached_post_collection = '' %}
-    {% for post in posts %}
+    {% for post in posts reversed %}
 
       {% if post %}
         
