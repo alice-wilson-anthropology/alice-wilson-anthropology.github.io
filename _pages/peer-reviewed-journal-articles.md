@@ -6,9 +6,11 @@ excerpt: "Peer reviewed articles"
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+<p>
+(You can find my articles categorized by theme <a href="{{ base_path }}/tags/">here</a>.) 
+</p>
+
 
 {% include base_path %}
 
