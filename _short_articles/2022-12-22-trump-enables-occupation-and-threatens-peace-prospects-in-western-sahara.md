@@ -1,7 +1,7 @@
 ---
 title: 'Trump enables occupation and threatens peace prospects in Western Sahara'
-date: 2012-08-14
-permalink: /posts/2012/08/trump/
+date: 2022-12-22
+permalink: /posts/2022/12/trump/
 categories:
   - Short articles
 tags:
@@ -10,4 +10,4 @@ tags:
 
 Trump enables occupation and threatens peace prospects in Western Sahara Democracy in Africa. 
 
-[Link to article](http://democracyinafrica.org/trump-enables-occupation-and-threatens-peace-prospects-in-western-sahara/')
+[Link to article](https://democracyinafrica.org/trump-enables-occupation-and-threatens-peace-prospects-in-western-sahara/')
