@@ -155,3 +155,40 @@ author_profile: true
 {% endfor %}
 
 
+
+
+{% comment %} 
+=============== GATHER ARTICLE REVIEWS LIST ==================================== 
+{% endcomment %}
+
+{% include group-by-array collection=site.reviews field="categories" %}
+{% assign reviews_categories = group_names %}
+{% assign reviews_group_items = group_items %}
+
+{% for category in reviews_categories %}
+  
+  {% assign posts = reviews_group_items[forloop.index0] %}
+
+  
+  <h2 id="{{ category | slugify }}" class="archive__item-title"> {{ category }} </h2>
+  {% if posts.size >= 0 %}
+  
+    {% assign cached_post_collection = '' %}
+    {% for post in posts reversed %}
+
+      {% if post %}
+        
+        {% if post.collection != cached_post_collection %}
+        {% assign cached_post_collection = post.collection %}
+          <!-- <h2 class="archive__subtitle">Short Articles</h2> -->
+        {% endif %} 
+
+        {% include archive-single.html %}
+      
+      {% endif %}
+
+    {% endfor %}
+  {% endif %} 
+
+{% endfor %}
+
