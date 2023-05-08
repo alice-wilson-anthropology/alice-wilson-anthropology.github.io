@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -87,10 +87,10 @@ author:
   location         : 
   employer         : "Sussex University"
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : # "http://scholar.google.com"
+  email            : "Alice.Wilson@sussex.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://profiles.sussex.ac.uk/p381972-alice-wilson"
   bitbucket        :
   codepen          :
   dribbble         :
