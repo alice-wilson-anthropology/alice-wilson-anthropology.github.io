@@ -1,6 +1,6 @@
 ---
 title: "Afterlives of revolution: Everyday Counterhistories in southern Oman"
-date: 2023-03-01
+date: 2023-05-23
 author: Wilson
 collection: books
 permalink: /books/2023-05-23-book-afterlives-of-revolution
