@@ -24,8 +24,5 @@ main:
   - title: "Bio"
     url: /bio/
 
-  - title: "Other Posts (blog)"
-    url: /year-archive/
-
   # - title: "Guide"
   #   url: /markdown/
