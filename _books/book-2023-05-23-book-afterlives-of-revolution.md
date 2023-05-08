@@ -12,7 +12,6 @@ citation: 'Wilson, A. (2023). &quot;Afterlives of revolution: Everyday Counterhi
 categories:
   - Books
 tags:
-  - Defeat
   - Counter-insurgency
   - Kinship
 ---

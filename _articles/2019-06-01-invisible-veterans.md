@@ -11,7 +11,6 @@ categories:
   - Peer-reviewed Articles
 tags:
   - Veterans
-  - Defeat
 
 ---
 Those who have participated in organized political violence often develop distinctive identities as veteran combatants. But what possibilities exist to produce a veteran identity for “invisible” veterans denied public recognition or mention, such as politically repressed defeated insurgents? Everyday socializing during or after political violence can help restore social worlds threatened or destroyed by violence; an examination of “invisible” veteran defeated revolutionaries in Dhufar, Oman, shows how everyday socializing can help reproduce a distinctive veteran identity despite political repression. Ethnographic fieldwork with veteran militants from the defeated revolutionary liberation movement for Dhufar reveals that while veterans (who are a diverse group) no longer publicly reproduce their political and economic revolutionary ideals, some male veterans — through everyday, same-sex socializing — reproduce revolutionary ideals of social, especially tribal and ethnic, egalitarianism. These practices mark a distinctive veteran identity and indicate an “afterlife” of lasting social legacies of defeated revolution.

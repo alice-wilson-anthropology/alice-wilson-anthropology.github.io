@@ -14,7 +14,6 @@ tags:
   - Veterans
   - Sovereignty
   - Kinship
-  - Defeat
 ---
 
 Critical reinterpretations of kinship studies questioned earlier ideas that kinship relations reflect and reproduce a dominant social order. ‘New’ kinship studies have nevertheless shown how even non‐traditional family forms can reproduce traditional ideas about relatedness, values, and social hierarchies. Promising grounds for resisting ongoing tendencies to link kinship with conservative social reproduction arise from better understanding the circumstances under which kinship relations reproduce a counter‐hegemonic social order. Kinship practices of former militants of a defeated revolutionary liberation movement in Dhufar, Oman, make visible veterans’ networks and relations which transgress dominant tribal, ethnic, racial, and gendered hierarchies. These practices show how, even in inauspicious circumstances of political defeat and marginalization, kinship relations can reproduce a counter‐hegemonic social order – as well as a social afterlife of defeated revolution.
