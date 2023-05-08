@@ -1,5 +1,5 @@
 ---
-title: "Chapter pp. 143-163: Keeping up with the times: the growth in support from non-state actors for the Polisario Front liberation movement"
+title: "Keeping up with the times: the growth in support from non-state actors for the Polisario Front liberation movement"
 collection: articles
 permalink: /articles/chapter-2020-06-01-keeping-up-with-the-times-the-growth-in-support-from-non-state-actors
 excerpt: "How does an armed liberation movement cultivate support from different actors over changing historical contexts?"

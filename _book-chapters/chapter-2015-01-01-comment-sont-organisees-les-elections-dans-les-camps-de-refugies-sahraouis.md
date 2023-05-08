@@ -1,5 +1,5 @@
 ---
-title: "Chapter:Comment sont organisées les élections dans les camps de réfugiés. "
+title: "Comment sont organisées les élections dans les camps de réfugiés. "
 collection: articles
 permalink: /articles/chapter-2015-01-01-comment-sont-organisees-les-elections-dans-les-camps-de-refugies-sahraouis
 excerpt: " This chapter examines the forms and stakes of elections in the Sahrawi refugee camps (French)."

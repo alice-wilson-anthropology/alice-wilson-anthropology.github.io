@@ -1,5 +1,5 @@
 ---
-title: "Chapter: Going under the radar in Western Sahara "
+title: "Going under the radar in Western Sahara "
 collection: articles
 permalink: /articles/chapter-2015-09-28-going-under-the-radar-in-western-sahara
 excerpt: "The case for decolonization in Western Sahara hinges upon the right of the people of the territory to self-determination. Yet during four decades of Morocco and Western Sahara’s liberation movement vying for sovereignty over the territory, and two decades of UN attempts at conflict resolution, a political stalemate has taken hold which has left the people of Western Sahara all too often overlooked in their own conflict."

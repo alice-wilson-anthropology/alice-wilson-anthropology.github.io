@@ -1,5 +1,5 @@
 ---
-title: "Chapter: For us, Parliament is a Tool for Liberation"
+title: "For us, Parliament is a Tool for Liberation"
 collection: articles
 permalink: /articles/chapter-2017-10-11-everyday-lives-sovereignty
 excerpt: "Revolutions create exceptional contexts of liminality during which militants undertake extraordinary actions in the pursuit of social, political and economic transformations."

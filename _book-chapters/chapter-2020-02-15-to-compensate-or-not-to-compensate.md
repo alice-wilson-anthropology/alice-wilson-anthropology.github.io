@@ -1,5 +1,5 @@
 ---
-title: "Chapter pp. 142-163: o compensate or not to compensate? Law, property and Sahrawi refugees in Algeria"
+title: "To compensate or not to compensate? Law, property and Sahrawi refugees in Algeria"
 collection: articles
 permalink: /articles/chapter-2020-02-15-to-compensate-or-not-to-compensate
 excerpt: "Corced migration often leads to refugees' dispossession, and thus to refugees' pursuit of various strategies to try and gain access to property, from home or in the new living space."

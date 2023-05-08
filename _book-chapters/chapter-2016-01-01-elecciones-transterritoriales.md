@@ -1,5 +1,5 @@
 ---
-title: "Chapter: Elecciones transterritoriales: los votantes saharauis en los campamentos de refugiados y más allá "
+title: "Elecciones transterritoriales: los votantes saharauis en los campamentos de refugiados y más allá "
 collection: articles
 permalink: /articles/chapter-2016-01-01-elecciones-transterritoriales
 excerpt: "Elections are important tools not only of governance but also of nation-building and international diplomacy. This chapter examines how elections can be adapted for such goals in the absence of a conventional nation-state setting."

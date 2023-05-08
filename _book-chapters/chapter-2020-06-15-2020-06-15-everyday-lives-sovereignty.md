@@ -1,5 +1,5 @@
 ---
-title: "Chapter pp. 134-153: The Everyday Lives of Sovereignty"
+title: "The Everyday Lives of Sovereignty"
 collection: articles
 permalink: /articles/chapter-2020-06-15-everyday-lives-sovereignty
 excerpt: "Critical reinterpretations of kinship studies questioned earlier ideas that kinship relations reflect and reproduce a dominant social order. ‘New’ kinship studies have nevertheless shown."
