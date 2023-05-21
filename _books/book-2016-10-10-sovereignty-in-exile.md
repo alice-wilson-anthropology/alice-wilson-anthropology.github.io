@@ -12,7 +12,8 @@ citation: 'Wilson, A. (2016). &quot;Sovereignty in Exile: a Saharan liberation.&
 categories:
   - Books
 tags:
-  - Revolution,Refugees
+  - Revolution
+  - Refugees
   - Sovereignty
   - Kinship
   - Tax
