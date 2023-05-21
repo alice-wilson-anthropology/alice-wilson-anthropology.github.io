@@ -1,7 +1,7 @@
 ---
 title: "Pratiques de l'appropriation foncière en contexte musulman"
 collection: articles
-permalink: /articles/2011-12-30-pratiques-de-l-appropriation-fonciere-en-contexte-musulman.
+permalink: /articles/2011-12-30-pratiques-de-l-appropriation-fonciere-en-contexte-musulman
 excerpt: "Saharawi refugees from Western Sahara have been leading a social revolution from the desert refugee camps in Algeria, where they have been living since the partial annexation of Western Sahara by Morocco in 1975."
 date: 2015-03-28
 venue: "Transcontinentales"
