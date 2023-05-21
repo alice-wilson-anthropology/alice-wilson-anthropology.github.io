@@ -1,7 +1,7 @@
 ---
 title: "Cycles of crisis, migration and the formation of new political identities in Western Sahara."
 collection: articles
-permalink: /articles/chapter-2012-06-01-cycles-of-crisis-migration-and-the-formation-of-new-political identities in Western Sahara.
+permalink: /articles/chapter-2012-06-01-cycles-of-crisis-migration-and-the-formation-of-new-political identities in Western Sahara
 excerpt: "This paper considers how conjunctions of crisis and migration are productive in a Foucauldian sense."
 date: 2012-06-01
 venue: 'London, Routledge'
