@@ -21,20 +21,3 @@ I joined the University of Sussex as a Lecturer in Social Anthropology in Septem
 * Fluent: English, French, Spanish
 * Excellent: Arabic and Hassaniya dialect
 
-
-## Articles
-  <ul>{% for post in site.articles %}
-    {% include archive-single-bio.html %}
-  {% endfor %}</ul>
-  
-## Books
-  <ul>{% for post in site.books %}
-    {% include archive-single-book-bio.html %}
-  {% endfor %}</ul>
- 
-## Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-bio.html %}
-  {% endfor %}</ul>
-  

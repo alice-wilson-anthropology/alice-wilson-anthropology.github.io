@@ -25,8 +25,10 @@ See more info at https://academicpages.github.io/
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 
 
-### Testing tyhe project
+### Generate the HTML for the project
 1. Run `bundle exec jekyll build` to generate the HTML (including the sidepage)
+
+### Testing the project
 1. Run `bundle exec jekyll serve` to serve the HTML from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 # Changelog -- bugfixes and enhancements

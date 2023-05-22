@@ -1,7 +1,7 @@
 ---
 title: 'Trump enables occupation and threatens peace prospects in Western Sahara'
-date: 2022-12-22
-permalink: /posts/2022/12/trump/
+date: 2020-12-22
+permalink: /posts/2020/12/trump/
 categories:
   - Short articles
 tags:
