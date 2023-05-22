@@ -1,13 +1,14 @@
 ---
-title: "From Revolutions to Elections: When Tribes Transform State Power"
-date: 2013-01-01
-permalink: /posts/2013/01/democratic-experiments-exile/
+title: "Democratic experiments in exile"
+date: 2013-03-14
+permalink: /posts/2013/03/democratic-experiments/
 categories:
   - Short articles
 tags:
-  - International Law
+  - revolution
+  - democratisation
 ---
 
-From Revolutions to Elections. When Tribes Transform State Power. LSE Middle East Studies Centre blog.
+Democratic Experiments in Exile. Pambazuka.
 
-[Link to article](https://web.archive.org/web/20200809023824/https://www.pambazuka.org/governance/democratic-experiments-exile)
+[Link to article](https://www.pambazuka.org/governance/democratic-experiments-exile)

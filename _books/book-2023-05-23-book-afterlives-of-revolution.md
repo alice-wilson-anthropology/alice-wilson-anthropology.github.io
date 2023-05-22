@@ -4,7 +4,7 @@ date: 2023-05-23
 author: Wilson
 collection: books
 permalink: /books/2023-05-23-book-afterlives-of-revolution
-excerpt: What are the legacies of a defeated revolution? Prevailing narratives depict defeated revolutions as examples of successful counter-insurgency campaigns.
+excerpt: What survives of revolution after military defeat and repression? This book considers the "social afterlives" of revolutionary values and networks among former militants.
 
 venue: 'Stanford University Press'
 paperurl: https://sup.org/books/title/?id=33023
@@ -16,4 +16,6 @@ tags:
   - Kinship
 ---
 
-What are the legacies of a defeated revolution? Prevailing narratives depict defeated revolutions as examples of successful counter-insurgency campaigns. This project’s ethnographic research with former revolutionary families from the liberation movement of Dhufar, Oman (active 1965-1975), nevertheless shows how, forty years on, ex-militants and relatives use kinship and mundane socialising to reproduce revolutionary networks and values of social egalitarianism. Foregrounding the social afterlives of defeated revolution, this research contributes to a counter-history of defeated revolutionaries. The project highlights the limitations of post-conflict patronage to win and change hearts and minds, and the potential of family and everyday relations during and after revolution to challenge dominant norms.
+The Dhufar Revolution was fought between 1965–1976, in an attempt to depose Oman's British-backed Sultan and advance social ideals of egalitarianism and gender equality. Dhufar, the southernmost governorate in today's Sultanate, captured global attention for its revolutionaries and their liberation movement's Marxist-inspired social change. But following counterinsurgency victory, Oman's government expunged the revolution from sanctioned historical narratives. *Afterlives of Revolution* offers a groundbreaking study of the legacies of officially silenced revolutionaries. How do their underlying convictions survive and inspire platforms for progressive politics in the wake of disappointment, defeat, and repression?
+
+Alice Wilson considers the "social afterlives" of revolutionary values and networks. Veteran militants have used kinship and daily socializing to reproduce networks of social egalitarianism and commemorate the revolution in unofficial ways. These afterlives revise conventional wartime and postwar histories. They highlight lasting engagement with revolutionary values, the agency of former militants in postwar modernization, and the limitations of government patronage for eliciting conformity. Recognizing that those typically depicted as coopted can still reproduce counterhegemonic values, this book considers a condition all too common across Southwest Asia and North Africa: the experience of defeated revolutionaries living under the authoritarian state they once contested.

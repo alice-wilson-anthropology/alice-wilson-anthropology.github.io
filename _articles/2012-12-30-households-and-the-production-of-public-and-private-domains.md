@@ -10,7 +10,7 @@ citation: "Wilson, A. (2012). &quot;Households and the production of public and 
 categories:
   - Peer-reviewed Articles
 tags:
-  - Revolution
+  - revolution
 ---
 
 Saharawi refugees from Western Sahara have been leading a social revolution from the desert refugee camps in Algeria, where they have been living since the partial annexation of Western Sahara by Morocco in 1975. The households of these refugees have changed enormously over three decades of exile and revolution. This study, which draws on two years of ethnographic fieldwork with Saharawi refugees (2007–2009), analyses households across the pre-exile and revolutionary periods to highlight the changed and changing nature of ‘domaining’, or the production of public and private domains, in the revolutionary period. The article explores the role of households in different articulations of ‘domaining’ and in producing persons with different kinds of social dispositions, those suited, more or less, to the revolution, or its once self-proclaimed foe, the ‘tribe’ (qabīla). 

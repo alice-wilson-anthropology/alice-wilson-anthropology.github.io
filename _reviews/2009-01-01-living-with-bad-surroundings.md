@@ -6,7 +6,7 @@ permalink: /reviews/2009-01-01-living-with-bad-surroundings
 categories:
   - Book reviews
 tags:
-  - Revolution
+  - revolution
   - Refugees
 ---
 

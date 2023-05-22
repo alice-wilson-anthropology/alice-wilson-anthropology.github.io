@@ -9,6 +9,6 @@ tags:
   - International Law
 ---
 
-Business as Usual in Western Sahara? Middle East Research and Information Project. 
+Co-authored Jacob Mundy and Alice Wilson. Business as Usual in Western Sahara? Middle East Research and Information Project. 
 
 [Link to article](https://merip.org/2019/01/business-as-usual-in-western-sahara/)

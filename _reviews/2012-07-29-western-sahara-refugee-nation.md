@@ -6,7 +6,7 @@ permalink: /reviews/2012-07-29-western-sahara-refugee-nation
 categories:
   - Book reviews
 tags:
-  - Revolution
+  - revolution
   - Refugees
 ---
 

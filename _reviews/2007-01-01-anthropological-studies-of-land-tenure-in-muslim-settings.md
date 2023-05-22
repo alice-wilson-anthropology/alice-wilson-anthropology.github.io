@@ -6,7 +6,7 @@ permalink: /reviews/2007-01-01-anthropological-studies-of-land-tenure-in-muslim-
 categories:
   - Background reviews
 tags:
-  - Revolution
+  - revolution
   - Refugees
 ---
 

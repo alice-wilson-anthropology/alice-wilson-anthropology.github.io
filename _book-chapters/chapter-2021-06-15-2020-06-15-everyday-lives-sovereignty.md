@@ -12,7 +12,7 @@ categories:
 tags:
   - Exile
   - Sovereignty
-  - Revolution
+  - revolution
 ---
 
 Understandings of sovereignty have shifted from notions of supreme rule over territory to sovereignty as a social relation. To interrogate this shift‚ and its implications for the relationship between sovereignty, people and territory, this chapter assesses an anomalous case: the exiled revolutionary government of Western Sahara's liberation movement, based in Algerian refugee camps. In exile with limited access to their claimed territory, Sahrawi refugees nevertheless engage in sovereignty as social relations. These relations play out between people‚ governing authorities and governed constituencies‚ with regard to non-territorial, mobile resources such as rations and refugees'‚ labor. This unusual case suggests how, whether in ordinary or extraordinary (exilic) forms, sovereignty consists of relationships between people playing out in relation to resources, whether territorial or mobile.

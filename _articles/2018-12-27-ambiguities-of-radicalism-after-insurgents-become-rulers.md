@@ -10,7 +10,7 @@ citation: "Wilson, A. (2020). &quot;Ambiguities of Radicalism After Insurgents B
 categories:
   - Peer-reviewed Articles
 tags:
-  - Revolution
+  - revolution
   - Refugees
 ---
 

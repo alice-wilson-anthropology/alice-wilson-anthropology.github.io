@@ -10,7 +10,7 @@ citation: " Wilson, A. (2013). &quot;On the margins of the Arab Spring&quot; <i>
 categories:
   - Peer-reviewed Articles
 tags:
-  - Revolution
+  - revolution
 ---
 
 Revisiting 'the margins' as an illuminating conceptual space analogous to, yet distinct from, the exception, this article explores the Arab Spring from its margins to highlight 'silencing effects' that, if they underpin the problematic notions of the Arab Spring and Arab exceptionalism, assume spectacular dimensions at the margins, namely, the 'disappearance' of an uprising. The disputed territory of Western Sahara, partially annexed by Morocco since 1975, saw an unprecedented uprising in October-November 2010. Annexed Western Sahara's uprising narrowly preceded Tunisia's, conventionally recognized as the first of the Arab Spring. Despite Sahrawis' perceptions of similarities between their uprising and the Arab Spring, Western Sahara's uprising is overlooked in most analyses of the Arab Spring. 'Silencing effects' obscure these similarities and, ultimately, the uprising itself.

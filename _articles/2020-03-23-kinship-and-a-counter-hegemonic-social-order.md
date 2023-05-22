@@ -10,7 +10,7 @@ citation: "Wilson, A. (2020). &quot;Kinship and a counter-hegemonic social order
 categories:
   - Peer-reviewed Articles
 tags:
-  - Revolution
+  - revolution
   - Veterans
   - Sovereignty
   - Kinship

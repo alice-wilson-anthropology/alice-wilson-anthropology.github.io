@@ -6,7 +6,7 @@ permalink: /reviews/2007-01-01-markets-of-dispossession
 categories:
   - Book reviews
 tags:
-  - Revolution
+  - revolution
   - Refugees
 ---
 

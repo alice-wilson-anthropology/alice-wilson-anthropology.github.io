@@ -4,7 +4,7 @@ date: 2016-10-10
 author: Wilson
 collection: books
 permalink: /books/2016-10-book-sovereignty-in-exile
-excerpt: This book is explores sovereignty and state power through the case of a liberation movement that set out to make itself into a state.
+excerpt: This book explores sovereignty and state power through the case of a liberation movement that set out to make itself into a state.
 
 venue: 'University of Pennsylvania Press'
 paperurl: 'https://www.pennpress.org/9780812248494/sovereignty-in-exile/'
@@ -12,7 +12,7 @@ citation: 'Wilson, A. (2016). &quot;Sovereignty in Exile: a Saharan liberation.&
 categories:
   - Books
 tags:
-  - Revolution
+  - revolution
   - Refugees
   - Sovereignty
   - Kinship
