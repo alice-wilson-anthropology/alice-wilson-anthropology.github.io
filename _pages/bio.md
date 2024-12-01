@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I joined the University of Sussex as a Lecturer in Social Anthropology in September 2016, and became a Senior Lecturer in 2018. Previously I enjoyed post-docs as an Addison Wheeler Research Fellow at Durham University (2014-2016) and as a Junior Research Fellow at Homerton College, University of Cambridge (2011-2014). I gained my PhD in Social Anthropology from the University of Cambridge (2011).
+I joined the University of Sussex as a Lecturer in Social Anthropology in September 2016, becoming a Senior Lecturer in 2018 and Associate Professor in 2025. Previously I enjoyed post-docs as an Addison Wheeler Research Fellow at Durham University (2014-2016) and as a Junior Research Fellow at Homerton College, University of Cambridge (2011-2014). I gained my PhD in Social Anthropology from the University of Cambridge (2011).
 
 
 ## Degrees

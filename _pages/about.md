@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a social anthropologist, with research interests in the political and economic anthropology of the Southwest Asia and North Africa. My work is concerned with transformations in the relationship between governing authorities and governed subjects, especially in contexts of revolution and liberation movements.
+I am a social anthropologist, with research interests in the political and economic anthropology of the Southwest Asia and North Africa. My work is concerned with transformations in the relationship between governing authorities and governed subjects, especially in contexts of revolution and liberation movements. I am Associate Professor in Anthropology at the University of Sussex, UK.
 
 My first monograph, [*Sovereignty in Exile: a Saharan liberation movement governs*](https://www.pennpress.org/9780812248494/sovereignty-in-exile/) (University of Pennsylvania Press, 2016), examines sovereignty through the case of the government-in-exile of Western Sahara's liberation movement. Through a study of revolutionary social change, legal reform, democratization, and economic entwinements of aid and informal trade, *Sovereignty in Exile* explores insights into state power brought to light by the changing significance of tribes amongst Western Sahara's refugees.
 
 *Sovereignty in Exile* won [Honorable Mention](https://mes.americananthro.org/mes-book-award/) in the 2017 American Anthropological Association Middle East Section Book Award.
 
 
-My second book, [*Afterlives of Revolution: Everyday Counterhistories in southern Oman*](https://sup.org/books/title/?id=33023) (Stanford 2023) focuses on legacies of the former liberation movement in Dhufar, southern Oman. The book examines how kinship practices, everyday socialising and the unofficial commemoration of some former revolutionaries generate ongoing social legacies and afterlives of Dhufar's revolution. These afterlives invite a rethinking of revolution, counterinsurgency, and conventional postwar histories. I held a Cambridge Humanities Research Grant and Addison Wheeler Research Fellowship at Durham University to conduct fieldwork for this project. I held a Leverhulme Research Fellowship 2019-2020 and a Derek Brewer Visiting Fellowship (2022) at Emmanuel College, Cambridge, whilst writing the manuscript. A presentation on this research at the University of Cambridge's Centre for Islamic Studies is available [here](https://www.youtube.com/watch?v=ax4SjmjZr40&feature=youtu.be).
+My second book, [*Afterlives of Revolution: Everyday Counterhistories in southern Oman*](https://sup.org/books/title/?id=33023) (Stanford 2023) focuses on legacies of the former liberation movement in Dhufar, southern Oman. The book examines how kinship practices, everyday socialising and the unofficial commemoration of some former revolutionaries generate ongoing social legacies and afterlives of Dhufar's revolution. These afterlives invite a rethinking of revolution, counterinsurgency, and conventional postwar histories. 
 
+During fieldwork and writing for <i>Afterlives of Revolution</i>, I held a Cambridge Humanities Research Grant, an Addison Wheeler Research Fellowship at Durham University, a Leverhulme Research Fellowship 2019-2020 and a Derek Brewer Visiting Fellowship (2022) at Emmanuel College, Cambridge. <i>Afterlives of Revolution</i> is under contract for translation into Arabic with Dar Souaal (Beirut). 
 
+Learn more about the book in this [video](https://www.youtube.com/watch?v=gA9w9K3tmTY) at the University of Cambridge, podcasts with [New Books Network](https://newbooksnetwork.com/afterlives-of-revolution) and the [Project on Middle East Political Science](https://pomeps.org/s-13-ep-2), an [interview](https://www.jadaliyya.com/Details/45074/Alice-Wilson,-Afterlives-of-Revolution-Everyday-Counterhistories-in-Southern-Oman-New-Texts-Out-Now) with Jadaliyya, and [commentaries](https://allegralaboratory.net/category/reviews/symposium-reviews/) in Allegra. 
+
+My current research spans two areas. I am examining how the values that Oman's revolutionaries promoted — such as social inclusivity, gender egalitarianism, and opposition to enslavement — inspire and reappear in postwar platforms for progressive politics. In parallel, I am planning a comparative project that foregrounds experiences of enslaved and formerly enslaved persons in the abolitionist projects of late twentieth-century Arab liberation movements.
 
 
 # Key themes in my research
